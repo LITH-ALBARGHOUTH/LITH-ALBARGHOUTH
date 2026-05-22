@@ -168,6 +168,70 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ---
 
+## AI Focus Areas
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### Biometric AI
+
+Palmprint ROI extraction, verification, identity matching, attendance workflows, and embedded image capture.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### Medical AI
+
+Medical NLP chatbots, leukemia microscopy classification, retrieval logic, and evaluation-focused model training.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### Vision Automation
+
+Gesture recognition, face/hand landmarks, browser video control, and local webcam-based interaction systems.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### Decision Systems
+
+Fuzzy logic, Mamdani inference, neuro-fuzzy adaptation, scenario testing, and driver-assistance simulation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Developer Intern
+
+**CMP Yazilim** · Istanbul, Turkey
+
+Built and integrated application features in an enterprise software environment, working with .NET-oriented development, responsive Bootstrap interfaces, debugging, and structured delivery workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### Software Development Intern
+
+**E Technologies** · Istanbul, Turkey
+
+Developed and documented RESTful APIs, worked on PHP/Laravel backend modules, supported frontend-backend integration, and practiced MySQL modeling, query work, and Git-based team workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 ## Featured Repositories
@@ -201,7 +265,7 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/PalmPrintSystem/Palmprint-backend">
+  <a href="https://github.com/PalmPrintSystem">
     <img width="100%" src="assets/repo-palmprint-backend.svg" alt="Palmprint-backend repository card" />
   </a>
 </td>
