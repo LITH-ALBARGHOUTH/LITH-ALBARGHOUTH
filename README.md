@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:00D9FF,45:7C3AED,100:FF3D81&text=Lith%20Albarghouth&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlignY=58&animation=fadeIn" alt="Lith Albarghouth banner" />
+<img width="100%" src="assets/profile-banner.svg" alt="Lith Albarghouth banner" />
 
 <a href="https://github.com/LITH-ALBARGHOUTH">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Computer+Vision+Developer;Building+biometric%2C+medical+AI%2C+and+automation+systems;Full-stack+and+mobile+integration+for+real+products" alt="Typing intro" />
@@ -89,102 +89,78 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ---
 
-## Project Highlights
+## Technical Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Palmprint Recognition & Attendance
+### AI & Machine Learning
 
-Biometric attendance platform with palm ROI extraction, verification, identity matching, enrollment workflows, QR/device sessions, reporting, and mobile tracking.
+`Model Training` `Deep Learning` `Data Preprocessing` `Model Evaluation` `Custom CNNs` `Image Classification` `Biometric Recognition` `Authentication & Verification Systems`
 
-`FastAPI` `Next.js` `Expo` `Supabase` `PyTorch` `YOLO` `OpenCV` `ESP32-S3`
+### ML Libraries
 
-Repos: [backend](https://github.com/PalmPrintSystem/Palmprint-backend) · [web](https://github.com/PalmPrintSystem/Palmprint-web) · [mobile](https://github.com/PalmPrintSystem/Palmprint-mobile) · [embedded](https://github.com/PalmPrintSystem/palmprint-embadded)
-
-</td>
-<td width="50%" valign="top">
-
-### Medora AI Medical NLP Chatbot
-
-Educational medical NLP chatbot workflow with TF-IDF features, fine-tuned multilingual MiniLM embeddings, task classifiers, semantic similarity, and retrieval-based responses.
-
-`Python` `PyTorch` `Sentence-Transformers` `scikit-learn` `Pandas` `Joblib`
-
-Repo: [medora-ai-chatbot](https://github.com/LITH-ALBARGHOUTH/medora-ai-chatbot)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### DenseLeukNet Leukemia Classification
-
-Custom dense-style CNN model runs for binary leukemia cell image classification, including training curves, confusion matrices, and validation/test metrics.
-
-`Python` `PyTorch` `TorchVision` `CNN` `Medical Imaging`
-
-Repo: [denseleuknet-leukemia-classification](https://github.com/LITH-ALBARGHOUTH/denseleuknet-leukemia-classification)
+`PyTorch` `TorchVision` `scikit-learn` `NumPy` `Pandas` `SciPy` `Joblib` `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
 
-### Adaptive Fuzzy ADAS Simulation
+### Natural Language Processing
 
-Hierarchical fuzzy driver-assistance simulation with collision risk, lane stability, comfort/efficiency, meta decision engines, scenario testing, and Ursina 3D demo mode.
+`Medical NLP` `Chatbot Workflows` `Text Classification` `Semantic Similarity` `Retrieval-Based Logic` `TF-IDF` `Sentence Embeddings` `Top-K Retrieval`
 
-`Python` `scikit-fuzzy` `NumPy` `Matplotlib` `Ursina` `Fuzzy Logic`
+### NLP Models & Methods
 
-Repo: [adaptive_fuzzy_adas](https://github.com/LITH-ALBARGHOUTH/adaptive_fuzzy_adas)
+`Sentence-Transformers` `Multilingual MiniLM` `LinearSVC` `Logistic Regression` `Complement Naive Bayes` `Cosine Similarity`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### FinStaff / WageFlow Payroll Platform
+### Computer Vision
 
-Payroll and employee-management product with mobile app, backend APIs, admin/web experience, subscriptions, PDF generation, scheduled jobs, and AI-assisted blog automation.
+`ROI Extraction` `Image Processing` `Palmprint Recognition` `Microscopy Image Classification` `Gesture Recognition` `Face/Hand Landmark Analysis` `Data Augmentation`
 
-`React Native` `Expo` `Node.js` `Express` `Next.js` `Firebase` `JWT` `RevenueCat`
+### Vision & Browser AI
 
-Repos: [FinStaff](https://github.com/LITH-ALBARGHOUTH/FinStaff) · [FinStaff-WebSite](https://github.com/LITH-ALBARGHOUTH/FinStaff-WebSite)
+`OpenCV` `YOLO` `MediaPipe Tasks Vision` `Chrome Manifest V3` `HTML5 Video Control` `Local Webcam Processing`
 
 </td>
 <td width="50%" valign="top">
 
-### GestureFlow Video Control Extension
+### Training & Evaluation
 
-Chrome Manifest V3 extension for controlling YouTube and HTML5 videos with local webcam-based hand/face tracking, stable gesture commands, and overlay feedback.
+`AdamW` `Learning-Rate Scheduling` `Early Stopping` `Label Smoothing` `Dropout` `CUDA / Google Colab` `Confusion Matrices` `Classification Reports` `Weighted F1` `Macro F1`
 
-`TypeScript` `Chrome MV3` `MediaPipe Tasks Vision` `esbuild` `Computer Vision`
+### AI Systems & Simulation
 
-Repo: [gesture-video-control-extension](https://github.com/omerturantr/gesture-video-control-extension)
+`Fuzzy Logic` `Mamdani Inference` `Neuro-Fuzzy Adaptation` `ADAS Simulation` `Scenario Testing` `scikit-fuzzy` `Ursina 3D`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### The Last Fort
+### Backend & APIs
 
-Unity castle-defense game with wave-based enemy spawning, NavMeshAgent AI, health/damage systems, soldier placement, castle repair, and victory/defeat UI flow.
+`FastAPI` `Node.js` `Express.js` `REST APIs` `JWT Auth` `bcrypt` `Firebase Admin` `Supabase Auth` `Firestore` `Validation` `Rate Limiting`
 
-`Unity` `C#` `NavMesh` `ScriptableObject` `Game UI`
+### Full-Stack Web
 
-Repo: [the-last-fort](https://github.com/AhmAbd/the-last-fort)
+`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Bootstrap` `Admin Dashboards` `Role-Based Workflows`
 
 </td>
 <td width="50%" valign="top">
 
-### Embedded Palm Capture Flow
+### Mobile, Embedded & Product
 
-ESP32 camera capture prototype with distance-based capture trigger, local upload service, LCD feedback, and image collection flow for palmprint enrollment experiments.
+`React Native` `Expo` `Mobile Auth` `Push Notifications` `RevenueCat` `PDF Generation` `Scheduled Jobs` `ESP32-S3 Camera` `Arduino`
 
-`ESP32-S3` `Arduino` `C++` `Flask` `Camera` `IoT`
+### Tools & Game Development
 
-Repo: [palmprint-embadded](https://github.com/PalmPrintSystem/palmprint-embadded)
+`Git` `GitHub` `VS Code` `Postman` `Docker` `Unity` `C#` `NavMesh` `ScriptableObject` `Game UI`
 
 </td>
 </tr>
@@ -202,36 +178,36 @@ Repo: [palmprint-embadded](https://github.com/PalmPrintSystem/palmprint-embadded
 <tr>
 <td width="50%">
   <a href="https://github.com/LITH-ALBARGHOUTH/adaptive_fuzzy_adas">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=LITH-ALBARGHOUTH&repo=adaptive_fuzzy_adas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-adaptive-fuzzy-adas.svg" alt="adaptive_fuzzy_adas repository card" />
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/LITH-ALBARGHOUTH/denseleuknet-leukemia-classification">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=LITH-ALBARGHOUTH&repo=denseleuknet-leukemia-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-denseleuknet.svg" alt="denseleuknet-leukemia-classification repository card" />
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/LITH-ALBARGHOUTH/medora-ai-chatbot">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=LITH-ALBARGHOUTH&repo=medora-ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-medora-ai.svg" alt="medora-ai-chatbot repository card" />
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/LITH-ALBARGHOUTH/FinStaff">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=LITH-ALBARGHOUTH&repo=FinStaff&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-finstaff.svg" alt="FinStaff repository card" />
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/PalmPrintSystem/Palmprint-backend">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PalmPrintSystem&repo=Palmprint-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-palmprint-backend.svg" alt="Palmprint-backend repository card" />
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/LITH-ALBARGHOUTH/FinStaff-WebSite">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=LITH-ALBARGHOUTH&repo=FinStaff-WebSite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=FF3D81" />
+    <img width="100%" src="assets/repo-finstaff-website.svg" alt="FinStaff-WebSite repository card" />
   </a>
 </td>
 </tr>
@@ -264,6 +240,6 @@ Repo: [palmprint-embadded](https://github.com/PalmPrintSystem/palmprint-embadded
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FF3D81,50:7C3AED,100:00D9FF&section=footer" alt="Footer wave" />
+<img width="100%" src="assets/footer-wave.svg" alt="Footer wave" />
 
 </div>

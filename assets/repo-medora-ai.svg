@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="155" viewBox="0 0 520 155" role="img" aria-label="medora-ai-chatbot repository card">
+  <rect width="520" height="155" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="518" height="153" rx="13" fill="none" stroke="#30363D"/>
+  <circle cx="42" cy="42" r="14" fill="#7C3AED" opacity="0.2"/>
+  <path d="M34 40h16a7 7 0 0 1 0 14h-7l-7 6v-6h-2z" stroke="#A78BFA" stroke-width="2" fill="none" stroke-linejoin="round"/>
+  <text x="70" y="45" fill="#00D9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="800">medora-ai-chatbot</text>
+  <text x="34" y="82" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Educational medical NLP chatbot with embeddings,</text>
+  <text x="34" y="104" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">classification tasks, semantic similarity, and retrieval logic.</text>
+  <rect x="34" y="122" width="68" height="20" rx="10" fill="#111827" stroke="#00D9FF" stroke-opacity="0.45"/>
+  <text x="68" y="136" text-anchor="middle" fill="#00D9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">Python</text>
+  <rect x="112" y="122" width="78" height="20" rx="10" fill="#111827" stroke="#7C3AED" stroke-opacity="0.45"/>
+  <text x="151" y="136" text-anchor="middle" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">MiniLM</text>
+  <rect x="200" y="122" width="88" height="20" rx="10" fill="#111827" stroke="#FF3D81" stroke-opacity="0.45"/>
+  <text x="244" y="136" text-anchor="middle" fill="#FF7AA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">scikit-learn</text>
+</svg>
