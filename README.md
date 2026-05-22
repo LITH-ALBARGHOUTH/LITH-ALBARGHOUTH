@@ -217,15 +217,19 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 <div align="center">
 
-## GitHub Stats & Activity
+## Stats & Contributions
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=LITH-ALBARGHOUTH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF3D81&text_color=E5E7EB" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LITH-ALBARGHOUTH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB" alt="Top languages" />
+<img height="190" src="assets/profile-stats-card.svg" alt="Profile stats card" />
+<img height="190" src="assets/top-languages-card.svg" alt="Top languages and stack mix card" />
 
 <br />
 <br />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=LITH-ALBARGHOUTH&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF3D81&point=7C3AED" alt="GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LITH-ALBARGHOUTH/LITH-ALBARGHOUTH/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LITH-ALBARGHOUTH/LITH-ALBARGHOUTH/output/github-snake.svg" />
+  <img width="92%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LITH-ALBARGHOUTH/LITH-ALBARGHOUTH/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
