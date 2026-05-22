@@ -220,7 +220,7 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 ## Stats & Contributions
 
 <img height="190" src="assets/profile-stats-card.svg" alt="Profile stats card" />
-<img height="190" src="assets/top-languages-card.svg" alt="Top languages and stack mix card" />
+<img height="230" src="assets/top-languages-card.svg" alt="Top languages and stack mix card" />
 
 <br />
 <br />
