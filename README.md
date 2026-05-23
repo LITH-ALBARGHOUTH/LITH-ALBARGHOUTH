@@ -37,6 +37,7 @@ focus:
 building:
   - biometric attendance systems
   - medical NLP prototypes
+  - mobile machine vision apps
   - vision-based automation tools
   - production-style web/mobile platforms
 ```
@@ -57,7 +58,7 @@ building:
 </p>
 
 ```text
-Computer Vision  -> palmprint, microscopy, gestures
+Computer Vision  -> palmprint, microscopy, waste detection, gestures
 NLP              -> chatbot, embeddings, retrieval
 Systems          -> APIs, auth, dashboards, mobile apps
 Simulation       -> fuzzy logic, ADAS, Unity gameplay
@@ -84,6 +85,8 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 <img src="https://img.shields.io/badge/Chrome%20MV3-111827?style=for-the-badge&logo=googlechrome&logoColor=4285F4" />
 <img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge&logo=google&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/scikit--fuzzy-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=python&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/ONNX%20Runtime-111827?style=for-the-badge&logo=onnx&logoColor=white" />
 
 </div>
 
@@ -97,11 +100,11 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ### AI & Machine Learning
 
-`Model Training` `Deep Learning` `Data Preprocessing` `Model Evaluation` `Custom CNNs` `Image Classification` `Biometric Recognition` `Authentication & Verification Systems`
+`Model Training` `Deep Learning` `Data Preprocessing` `Model Evaluation` `Custom CNNs` `Image Classification` `Object Detection` `Biometric Recognition` `Authentication & Verification Systems`
 
 ### ML Libraries
 
-`PyTorch` `TorchVision` `scikit-learn` `NumPy` `Pandas` `SciPy` `Joblib` `Matplotlib`
+`PyTorch` `TorchVision` `YOLOv8` `ONNX Runtime` `scikit-learn` `NumPy` `Pandas` `SciPy` `Joblib` `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
@@ -121,11 +124,11 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ### Computer Vision
 
-`ROI Extraction` `Image Processing` `Palmprint Recognition` `Microscopy Image Classification` `Gesture Recognition` `Face/Hand Landmark Analysis` `Data Augmentation`
+`ROI Extraction` `Image Processing` `Palmprint Recognition` `Microscopy Image Classification` `Waste Detection` `Gesture Recognition` `Face/Hand Landmark Analysis` `Data Augmentation`
 
 ### Vision & Browser AI
 
-`OpenCV` `YOLO` `MediaPipe Tasks Vision` `Chrome Manifest V3` `HTML5 Video Control` `Local Webcam Processing`
+`OpenCV` `YOLOv8` `MediaPipe Tasks Vision` `Chrome Manifest V3` `HTML5 Video Control` `Local Webcam Processing` `Bounding Box Overlays`
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +148,7 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ### Backend & APIs
 
-`FastAPI` `Node.js` `Express.js` `REST APIs` `JWT Auth` `bcrypt` `Firebase Admin` `Supabase Auth` `Firestore` `Validation` `Rate Limiting`
+`FastAPI` `Node.js` `Express.js` `REST APIs` `WebSocket Streaming` `JWT Auth` `bcrypt` `Firebase Admin` `Supabase Auth` `Firestore` `Validation` `Rate Limiting`
 
 ### Full-Stack Web
 
@@ -156,7 +159,7 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 ### Mobile, Embedded & Product
 
-`React Native` `Expo` `Mobile Auth` `Push Notifications` `RevenueCat` `PDF Generation` `Scheduled Jobs` `ESP32-S3 Camera` `Arduino`
+`React Native` `Expo` `Mobile Auth` `Push Notifications` `RevenueCat` `PDF Generation` `Scheduled Jobs` `On-Device Inference` `ESP32-S3 Camera` `Arduino`
 
 ### Tools & Game Development
 
@@ -172,32 +175,39 @@ Simulation       -> fuzzy logic, ADAS, Unity gameplay
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### Biometric AI
 
 Palmprint ROI extraction, verification, identity matching, attendance workflows, and embedded image capture.
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### Medical AI
 
 Medical NLP chatbots, leukemia microscopy classification, retrieval logic, and evaluation-focused model training.
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### Vision Automation
 
 Gesture recognition, face/hand landmarks, browser video control, and local webcam-based interaction systems.
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### Decision Systems
 
 Fuzzy logic, Mamdani inference, neuro-fuzzy adaptation, scenario testing, and driver-assistance simulation.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### Sustainable AI
+
+Waste object detection, mobile recycling guidance, live inference, and gamified awareness workflows.
 
 </td>
 </tr>
@@ -225,6 +235,31 @@ Built and integrated application features in an enterprise software environment,
 **E Technologies** · Istanbul, Turkey
 
 Developed and documented RESTful APIs, worked on PHP/Laravel backend modules, supported frontend-backend integration, and practiced MySQL modeling, query work, and Git-based team workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Education & Languages
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Education
+
+**B.Sc. Computer Engineering** · Istanbul Sabahattin Zaim University
+
+Expected graduation: **June 2026**
+
+</td>
+<td width="45%" valign="top">
+
+### Languages
+
+`Arabic: Native` `Turkish: Advanced` `English: Intermediate`
 
 </td>
 </tr>
@@ -270,8 +305,8 @@ Developed and documented RESTful APIs, worked on PHP/Laravel backend modules, su
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/LITH-ALBARGHOUTH/FinStaff-WebSite">
-    <img width="100%" src="assets/repo-finstaff-website.svg" alt="FinStaff-WebSite repository card" />
+  <a href="https://github.com/AhmAbd/wastepredictionapp">
+    <img width="100%" src="assets/repo-wastepredictionapp.svg" alt="Smart Recycling Assistant repository card" />
   </a>
 </td>
 </tr>
